@@ -12,7 +12,8 @@ This is personal project on html, css and javascript
 
 > . COMPILER: gcc
 
-AUTHOR
+AUTHOR:
+
 Engr. Monehin Feyisara
 
 
