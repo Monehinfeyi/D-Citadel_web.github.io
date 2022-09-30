@@ -16,7 +16,7 @@ body {
   background-color: rgb(226, 221, 174);
 }
 
-/* THIS IS HEADER CONTAINER SECTION (CSS)*/
+/* THIS IS HEADER CONTAINER SECTION FOR INDEX (CSS)*/
 
 .header-container {
   width: 80em;
@@ -159,15 +159,16 @@ img {
   background: #DE463B;
 }
 
-/* THIS IS NAVIGATION SECTION (CSS)*/
+/* THIS IS NAVIGATION SECTION FOR INDEX(CSS)*/
 
 .nav-menu {
   width: 100%;
   height: 50px;
   background-color: rgb(14, 14, 105);
   text-align: center;
-  border-bottom-left-radius: 8px;
-  border-bottom-right-radius: 8px;
+  margin-bottom: 52px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
 
 }
 
@@ -195,6 +196,31 @@ img {
   background: #da8f04;
 }
 
+/* SEARCH BAR FOR INDEX */
+.search{
+  float:right;
+  margin:7px;
+
+}
+
+.search input{
+  padding: 5.2px 25px;
+  background: none;
+  font-size: 13.8px;
+  border-color: #da8f04;
+  font-weight: 700;
+  color: #DE463B;
+}
+.search button{
+  background-color: rgb(19, 19, 133);
+  color: rgb(146, 112, 24);
+  float: right;
+  padding: 5px 10px;
+  margin-right: 16px;
+  font-size: 12px;
+  border: none;
+  cursor: pointer;
+}
 
 /* THIS IS VEDIO SECTION (CSS)*/
 
