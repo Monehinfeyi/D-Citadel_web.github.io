@@ -1,6 +1,6 @@
 # THIS IS A PERSONAL WEBSITE
 
-## You are welcome to this repository. This reository contains code written html, css, and javascript.
+## You are welcome to this repository. This reository contains code written in html, css, and javascript.
 
 This is personal project on html, css and javascript
 
